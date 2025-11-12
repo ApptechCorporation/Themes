@@ -1,0 +1,3 @@
+[build]
+  # Define a pasta onde o Netlify deve procurar as funções
+  functions = "netlify/functions"
